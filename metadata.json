@@ -1,0 +1,6 @@
+{
+  "name": "에코 가디언즈 RPG - 우리 동네 생태 수호대",
+  "description": "이정빈 제작의 우리 동네 멸종위기종 보호 및 외래 교란생물 퇴치 탐사 RPG. AI 생물 스캐너, GPS 생태 지도, 턴제 정화 배틀, 30종 이상의 고퀄리티 생태 도감 시스템.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
